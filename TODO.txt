@@ -1,0 +1,12 @@
+create an api with some endpoint that does some work
+
+/ShowWeather
+
+- if admin user, show some additional data
+- if standard user, show just the weather
+
+Integration Tests: 
+
+Features/ShowWeatherTests.cs
+
+- check for returned data
